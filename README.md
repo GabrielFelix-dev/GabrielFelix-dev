@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 -  Software Development Student
 - Currently learning Java, PHP, SQL, and Web Development
@@ -6,7 +6,7 @@
 - Always exploring new technologies and best practices
 - Basic level of English
 
-# Technologies
+## Technologies
 - Java
 - PHP
 - SQL
