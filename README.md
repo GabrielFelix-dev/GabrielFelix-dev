@@ -6,9 +6,9 @@
 - Always exploring new technologies and best practices
 - Basic level of English
 
-Technologies
-Java
-PHP
-MySQL
-HTML & CSS
-Git & GitHub
+# Technologies
+- Java
+- PHP
+- SQL
+- HTML & CSS
+- Git & GitHub
