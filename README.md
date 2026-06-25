@@ -12,7 +12,6 @@ I'm passionate about technology and software development. Currently, I'm focused
 - 🌱 Learning Java, PHP, MySQL, and Spring Boot
 - 🔭 Working on web applications and database projects
 - 📚 Always looking for new challenges and technologies
-- ⚡ Goal: Become a Full-Stack Developer
 
 ---
 
