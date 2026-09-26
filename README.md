@@ -9,7 +9,7 @@ I'm passionate about technology and software development. Currently, I'm focused
 ### 🚀 About Me
 
 - 🎓 Studying Software Development
-- 🌱 Learning Java, PHP, MySQL, and Spring Boot
+- 🌱 Learning Java, PHP, Python, Database, Git e Github...
 - 🔭 Working on web applications and database projects
 - 📚 Always looking for new challenges and technologies
 
@@ -18,7 +18,7 @@ I'm passionate about technology and software development. Currently, I'm focused
 ### 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,php,python,mysql,html,css,git,github,vscode,idea" />
 </p>
 
 ---
